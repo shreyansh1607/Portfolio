@@ -1,5 +1,5 @@
 import React from 'react';
-import cv from '../assets/shreyansh4.pdf';
+import cv from '../assets/Shreyansh4.pdf';
 
 const Contact = () => {
   const [result, setResult] = React.useState("");
